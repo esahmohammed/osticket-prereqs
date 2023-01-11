@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Welcome to my tutorial on how to install OsTicket. For our first step, you want to go and create a Windows 10 Virtual Machine using Microsoft Azure. We're using a virtual machine to make sure that we protect our own machine incase any problems arise. To start create a resource group and a virtual machine of Windows 10 that uses the resource group that we just created.
 </p>
 <br />
 
