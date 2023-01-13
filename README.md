@@ -17,12 +17,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
 <h2>Installation Steps</h2>
 
 <p>
@@ -93,7 +87,7 @@ Step 1: Typical Setup
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Step 2: Launch Configuration Wizard  after installation 
+Step 2: Launch Configuration Wizard after installation <br />
 Step 3: Standard Configuration
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -144,9 +138,9 @@ For our next step we will open IIS Manager and restart the server by selecting s
 
 <p>
 In order for us to continue we first need to enable 3 extensions. To do so we will go back to IIS Manager, select Sites >> Default >> osTicket then enter PHP Manager, select “Enable or Disable an extension” and enable the following: <br />
-Enable: php_imap.dll
-Enable: php_intl.dll
-Enable: php_opcache.dll
+Enable: php_imap.dll <br />
+Enable: php_intl.dll<br />
+Enable: php_opcache.dll<br />
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -236,11 +230,11 @@ In the session create a database called “osTicket” by right clicking on unna
 </p>
 
 <p>
-Enter the following:
-MySQL Database: osTicket 
-MySQL Username: root
-MySQL Password: Password1
-After doing so click install.
+Enter the following:<br />
+MySQL Database: osTicket <br />
+MySQL Username: root<br />
+MySQL Password: Password1<br />
+After doing so click install.<br />
 <br />
 
 Congratulations 🎉 if you followed each step correctly osTicket should now be installed with no errors!
