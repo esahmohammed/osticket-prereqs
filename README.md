@@ -227,8 +227,35 @@ Before we fill out our last 3 credentials we need to download and install HeidiS
 In the session create a database called “osTicket” by right clicking on unnamed and selecting create new>>database. Name the database osTicket and click OK. Now we can go back to our browser and fill out the remaining credentials on the osTicket web server
 </p>
 
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
- 
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
+<p>
+Enter the following:
+MySQL Database: osTicket 
+MySQL Username: root
+MySQL Password: Password1
+After doing so click install.
+<br />
+
+Congratulations 🎉 if you followed each step correctly osTicket should now be installed with no errors!
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+The last thing we will be doing for this tutorial is some clean up. Go to the following path: C:\inetpub\wwwroot\osTicket\setup and delete only the “setup” folder. Next set “ost-config.php”permissions to “Read” only in C:\inetpub\wwwroot\osTicket\include\ost-config.php 
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 
