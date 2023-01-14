@@ -25,7 +25,7 @@ Welcome to my tutorial on how to install OsTicket. For our first step, you want 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7YEkwr5.png" height="40%" width="40%" alt="Virtual Machine"/>
 </p>
 <p>
 Okay great! Now we’ll connect to our virtual machine (vn) using its public IPv4 Address in Microsoft Remote Desktop (RDP) if you are on Mac you can do so by downloading Microsoft Remote Desktop.
@@ -33,7 +33,11 @@ Okay great! Now we’ll connect to our virtual machine (vn) using its public IPv
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4EL26QY.png" height="40%" width="40%" alt="IPv4 Address"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/iMdkZKX.png" height="40%" width="40%" alt="RDP"/>
 </p>
 
 <p>
@@ -42,7 +46,7 @@ Once you are connected to your VM you must enable IIS. To do so, we’ll go to o
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3nSoMaN.png" height="40%" width="40%" alt="IIS Installation"/>
 </p>
 
 <p>
@@ -50,11 +54,11 @@ Next download and install the following files, PHP Manager for IIS (PHPManagerFo
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zpHMKmx.png" height="40%" width="40%" alt="PHP Manager for IIS"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VvMMFQQ.png" height="40%" width="40%" alt="Rewrite Module for IIS"/>
 </p>
 
 <p>
@@ -62,7 +66,7 @@ Afterwards we will create the directory C:\PHP by going into our local disk and 
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JZaQr4e.png" height="40%" width="40%" alt="PHP Folder"/>
 </p>
 
 <p>
@@ -70,7 +74,7 @@ Once you have done this step we can download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/daigPlY.png" height="40%" width="40%" alt="PHP Directory"/>
 </p>
 
 <p>
@@ -78,23 +82,27 @@ Next we download download and install VC_redist.x86.exe, then download and insta
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XuI55Oz.png" height="40%" width="40%" alt="VC_redist"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/FmehH94.png" height="40%" width="40%" alt="MySQL"/>
 </p>
 
 <p>
 Follow these steps when installing MySQL 5.5.62
 Step 1: Typical Setup
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KiqaVvC.png" height="40%" width="40%" alt="Typical"/>
 </p>
 Step 2: Launch Configuration Wizard after installation <br />
 Step 3: Standard Configuration
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MEHvsn0.png" height="40%" width="40%" alt="Standard Configuration"/>
 </p>
 Step 4: Password1
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QGuUrms.png" height="40%" width="40%" alt="root/password"/>
 </p>
 
 <p>
