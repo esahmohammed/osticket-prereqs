@@ -255,7 +255,7 @@ Enter the following:<br />
 MySQL Database: osTicket<br />
 MySQL Username: root<br />
 MySQL Password: Password1<br />
-After doing so click install.<br />
+After doing so click "Install Now".<br />
 <br />
 
 <p>
