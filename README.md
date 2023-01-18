@@ -259,12 +259,12 @@ After doing so click "Install Now".<br />
 <br />
 
 <p>
-<img src="https://i.imgur.com/4UagEjY.png" height="40%" width="40%" alt="Database credentials"/>
+<img src="https://i.imgur.com/4UagEjY.png" height="90%" width="80%" alt="Database credentials"/>
 </p>
 
 Congratulations 🎉 if you followed each step correctly osTicket should now be installed with no errors!
 <p>
-<img src="https://i.imgur.com/0xIFv22.png" height="40%" width="40%" alt="osTicket Successfuly Setup"/>
+<img src="https://i.imgur.com/0xIFv22.png" height="80%" width="80%" alt="osTicket Successfuly Setup"/>
 </p>
 
 <p>
